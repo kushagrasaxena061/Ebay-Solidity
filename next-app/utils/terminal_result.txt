@@ -1,0 +1,25 @@
+1_deploy.js
+===========
+
+   Replacing 'Ebay'
+   ----------------
+   > transaction hash:    0x4a9d800e65b4c82c42079fcf075886924088e94ff70fc817d04eeae03a94612b
+   > Blocks: 2            Seconds: 21
+   > contract address:    0x626828CBD2A4fe3CF2BA0F20597636C38Da75e2A
+   > block number:        8268183
+   > block timestamp:     1673042244
+   > account:             0xAb5dbe761243D5311E56E110267503c4f87AfB3C
+   > balance:             0.099894
+   > gas used:            1001060 (0xf4664)
+   > gas price:           100 gwei
+   > value sent:          0 ETH
+   > total cost:          0.100106 ETH
+
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:            0.100106 ETH
+
+Summary
+=======
+> Total deployments:   1
+> Final cost:          0.100106 ETH
